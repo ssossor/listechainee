@@ -1,0 +1,4 @@
+# ninja log v5
+0	17	1705217001704000000	CMakeFiles/montest.dir/src/aff.c.o	9e0a85c3658cbcc2
+0	17	1705217001704000000	CMakeFiles/montest.dir/test/test.c.o	c66fa5724a6d544f
+17	36	1705217001716000000	montest	2c2e569620a80390
