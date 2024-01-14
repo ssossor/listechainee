@@ -1,0 +1,3 @@
+/home/ssor/cdev/listechainee/buildninja/CMakeFiles/montest.dir
+/home/ssor/cdev/listechainee/buildninja/CMakeFiles/edit_cache.dir
+/home/ssor/cdev/listechainee/buildninja/CMakeFiles/rebuild_cache.dir

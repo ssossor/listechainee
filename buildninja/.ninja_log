@@ -1,0 +1,8 @@
+# ninja log v5
+2	66	1704984884096000000	CMakeFiles/montest.dir/src/aff.c.o	9e0a85c3658cbcc2
+2	67	1704984884096000000	CMakeFiles/montest.dir/test/test.c.o	c66fa5724a6d544f
+67	138	1704984884148000000	montest	2c2e569620a80390
+2	40	0	clean	a31eedcededa8236
+3	86	1704984901588000000	CMakeFiles/montest.dir/src/aff.c.o	9e0a85c3658cbcc2
+6	94	1704984901596000000	CMakeFiles/montest.dir/test/test.c.o	c66fa5724a6d544f
+94	165	1704984901668000000	montest	2c2e569620a80390

@@ -1,0 +1,3 @@
+/home/ssor/cdev/listechainee/build/CMakeFiles/montest.dir
+/home/ssor/cdev/listechainee/build/CMakeFiles/edit_cache.dir
+/home/ssor/cdev/listechainee/build/CMakeFiles/rebuild_cache.dir
