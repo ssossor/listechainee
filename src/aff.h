@@ -1,1 +1,0 @@
-int afficheentier(int x);

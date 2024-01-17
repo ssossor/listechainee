@@ -1,7 +1,15 @@
 #include <stdio.h>
-#include "src/aff.h"
+#include <stdlib.h>
+#include <stdbool.h>
+#include "src/list.h"
 
 int main (void) {
-afficheentier(4);
-return 0;
+    struct element *testlist = createlist(7);
+    appendlist(testlist, 8);
+    appendlist(testlist, 9);
+    prependlist(testlist, 6);
+    prependlist(testlist, 5);
+    printlist(testlist);
+    
+    return 0;
 }
