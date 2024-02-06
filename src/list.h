@@ -5,6 +5,8 @@ struct element {
     struct element *pointer;
 };
 
+// idx = index, val = value
+
 struct element * createlist(int val);
 bool listisempty(struct element *list);
 int lenlist(struct element *list);
