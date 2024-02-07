@@ -31,6 +31,7 @@ void printlist(struct element *list) {
         printf("%d\n", list -> value);
         list = list -> pointer;
     }
+    printf("--- END ---\n");
 }
 
 void debuglist(struct element *list) {
